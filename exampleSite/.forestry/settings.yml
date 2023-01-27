@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/config.yml
+  path: exampleSite
   label: Configure
 - type: directory
   path: exampleSite/content/blog
